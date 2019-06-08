@@ -1,0 +1,8 @@
+{
+  "domain": "timebox",
+  "name": "Dvoom Timebox",
+  "documentation": "https://github.com/keatontaylor/alexa_media_player/wiki",
+  "dependencies": [],
+  "codeowners": ["@noheton"],
+  "requirements": []
+}
